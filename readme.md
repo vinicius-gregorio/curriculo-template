@@ -7,7 +7,7 @@ Esse modelo de currículo é direcionado para qualquer pessoa que esteja em busc
 
 - [Currículo Primeiro emprego - PDF](https://github.com/engenheiracoelho/curriculo/blob/main/CV%20Primeiro%20emprego.pdf)
 - [Explicando o currículo de primeiro emprego ponto a ponto](https://github.com/engenheiracoelho/curriculo/blob/main/EXPLICANDO%20O%20CV%20-%20primeiro%20emprego.pdf)
-- [Currículo editável - Primeiro emprego](https://github.com/engenheiracoelho/curriculo/blob/main/CV%20edita%CC%81vel%20primeiro%20emprego.docx)
+- [Currículo editável - Primeiro emprego](https://github.com/engenheiracoelho/curriculo/blob/main/CV%20edita%CC%81vel%20primeiro%20emprego.docx) 
 
 ## Currículo para profissionais com experiência
 Esse modelo de currículo é direcionado para profissionais da área de software e que já possuem experiência.
